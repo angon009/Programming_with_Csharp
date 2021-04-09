@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\HelloWorld-Solution\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
