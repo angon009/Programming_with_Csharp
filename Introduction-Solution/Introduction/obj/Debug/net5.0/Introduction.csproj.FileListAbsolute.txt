@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\ref\Introduction.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\bin\Debug\net5.0\Introduction.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\ref\Introduction.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Introduction-Solution\Introduction\obj\Debug\net5.0\Introduction.genruntimeconfig.cache
