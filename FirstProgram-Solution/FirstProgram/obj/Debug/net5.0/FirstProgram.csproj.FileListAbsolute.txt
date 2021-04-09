@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\FirstProgram-Solution\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache
