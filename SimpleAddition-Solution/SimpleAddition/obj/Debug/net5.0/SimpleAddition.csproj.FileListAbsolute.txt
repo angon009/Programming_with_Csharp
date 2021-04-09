@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\ref\SimpleAddition.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\bin\Debug\net5.0\SimpleAddition.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\ref\SimpleAddition.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\SimpleAddition-Solution\SimpleAddition\obj\Debug\net5.0\SimpleAddition.genruntimeconfig.cache
