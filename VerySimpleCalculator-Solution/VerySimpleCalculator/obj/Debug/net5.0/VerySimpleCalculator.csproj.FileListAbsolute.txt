@@ -1,0 +1,16 @@
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.exe
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.deps.json
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.runtimeconfig.json
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.runtimeconfig.dev.json
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.dll
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\ref\VerySimpleCalculator.dll
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.pdb
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.AssemblyInfo.cs
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.dll
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\ref\VerySimpleCalculator.dll
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.pdb
+C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.genruntimeconfig.cache
