@@ -6,9 +6,8 @@ namespace FirstProgram
     {
         static void Main(string[] args)
         {
-            string x = "Hello,Dev Skill!!!!";
-            string y = "Its a training Academy....";
-            Console.WriteLine(x + y);
+            ;
+            Console.WriteLine("Hello World....This is ANGON CHOWDHURY ");
         }
     }
 }
