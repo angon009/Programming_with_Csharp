@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\bin\Debug\net5.0\Calculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Calculator-Solution\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
