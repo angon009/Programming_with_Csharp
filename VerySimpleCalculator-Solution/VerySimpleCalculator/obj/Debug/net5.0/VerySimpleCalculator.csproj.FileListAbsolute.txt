@@ -14,3 +14,19 @@ C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\o
 C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\ref\VerySimpleCalculator.dll
 C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.pdb
 C:\Users\Angon\source\repos\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\ref\VerySimpleCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\ref\VerySimpleCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\VerySimpleCalculator-Solution\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.genruntimeconfig.cache
