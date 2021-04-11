@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\ref\largestNumber.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\bin\Debug\net5.0\largestNumber.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\ref\largestNumber.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\largestNumber-Solution\largestNumber\obj\Debug\net5.0\largestNumber.genruntimeconfig.cache
