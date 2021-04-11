@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\ref\TemperatureConverterAuto.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\bin\Debug\net5.0\TemperatureConverterAuto.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\ref\TemperatureConverterAuto.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\TemperatureConverterAuto-Solution\TemperatureConverterAuto\obj\Debug\net5.0\TemperatureConverterAuto.genruntimeconfig.cache
