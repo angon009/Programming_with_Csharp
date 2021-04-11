@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\ref\TempratureConverter.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\bin\Debug\net5.0\TempratureConverter.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\ref\TempratureConverter.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\TempratureConverter-Solution\TempratureConverter\obj\Debug\net5.0\TempratureConverter.genruntimeconfig.cache
