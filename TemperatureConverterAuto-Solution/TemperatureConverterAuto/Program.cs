@@ -31,7 +31,8 @@ namespace TemperatureConverterAuto
 
                 string temp = Console.ReadLine();
                 int tempValue = Convert.ToInt32(temp);
-                double fah = ((9 / 5) * tempValue) + 32;
+                Console.WriteLine(tempValue);
+                double fah = (9.00 / 5.00 * tempValue) + 32;
 
                 Console.WriteLine("Fahrenheit = " + fah);
             }
@@ -41,7 +42,7 @@ namespace TemperatureConverterAuto
 
                 string temp = Console.ReadLine();
                 int tempValue = Convert.ToInt32(temp);
-                double cel = (5 / 9) * (tempValue - 32);
+                double cel = (5.00 / 9.00) * (tempValue - 32);
 
                 Console.WriteLine("Celsius = " + cel);
             }
@@ -71,7 +72,7 @@ namespace TemperatureConverterAuto
 
                 string temp = Console.ReadLine();
                 int tempValue = Convert.ToInt32(temp);
-                double kel = ((5 / 9) * (tempValue - 32)) + 273;
+                double kel = ((5.00 / 9.00) * (tempValue - 32)) + 273;
 
                 Console.WriteLine("Kelvin = " + kel);
             }
@@ -81,7 +82,7 @@ namespace TemperatureConverterAuto
 
                 string temp = Console.ReadLine();
                 int tempValue = Convert.ToInt32(temp);
-                double fah = ((9 / 5) * (tempValue - 273)) + 32;
+                double fah = ((9.00 / 5.00) * (tempValue - 273)) + 32;
 
                 Console.WriteLine("Fahrenheit = " + fah);
             }

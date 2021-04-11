@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\TemperatureConverterAuto.csproj",
+      "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\TemperatureConverterAuto.csproj",
       "projectName": "TemperatureConverterAuto",
-      "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\TemperatureConverterAuto.csproj",
+      "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\TemperatureConverterAuto.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\obj\\",
+      "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\TemperatureConverterAuto-Solution\\TemperatureConverterAuto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",
