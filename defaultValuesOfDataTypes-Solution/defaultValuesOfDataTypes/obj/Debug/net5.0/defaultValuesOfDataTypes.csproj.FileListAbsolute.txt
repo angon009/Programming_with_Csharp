@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\ref\defaultValuesOfDataTypes.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\bin\Debug\net5.0\defaultValuesOfDataTypes.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\ref\defaultValuesOfDataTypes.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\defaultValuesOfDataTypes-Solution\defaultValuesOfDataTypes\obj\Debug\net5.0\defaultValuesOfDataTypes.genruntimeconfig.cache
