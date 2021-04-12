@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\ref\dataTypeConversion.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\bin\Debug\net5.0\dataTypeConversion.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\ref\dataTypeConversion.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dataTypeConversion-Solution\dataTypeConversion\obj\Debug\net5.0\dataTypeConversion.csprojAssemblyReference.cache
