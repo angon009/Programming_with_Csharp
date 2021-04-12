@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\ref\minuteToYearAndDate.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\bin\Debug\net5.0\minuteToYearAndDate.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\ref\minuteToYearAndDate.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\minuteToYearAndDate-Solution\minuteToYearAndDate\obj\Debug\net5.0\minuteToYearAndDate.genruntimeconfig.cache
