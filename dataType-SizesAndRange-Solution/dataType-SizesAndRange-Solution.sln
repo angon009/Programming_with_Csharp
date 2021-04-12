@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataType-SizesAndRange", "dataType-SizesAndRange\dataType-SizesAndRange.csproj", "{F0637C09-E8AF-473D-A8B6-5E42DFD81C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0637C09-E8AF-473D-A8B6-5E42DFD81C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0637C09-E8AF-473D-A8B6-5E42DFD81C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0637C09-E8AF-473D-A8B6-5E42DFD81C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0637C09-E8AF-473D-A8B6-5E42DFD81C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0DCEAF6-5479-4715-8851-9D3C4D8AE054}
+	EndGlobalSection
+EndGlobal

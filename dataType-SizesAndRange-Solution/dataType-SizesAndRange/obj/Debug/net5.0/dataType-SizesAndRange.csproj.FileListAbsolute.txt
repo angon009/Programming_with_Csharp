@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\ref\dataType-SizesAndRange.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\bin\Debug\net5.0\dataType-SizesAndRange.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\ref\dataType-SizesAndRange.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dataType-SizesAndRange-Solution\dataType-SizesAndRange\obj\Debug\net5.0\dataType-SizesAndRange.genruntimeconfig.cache
