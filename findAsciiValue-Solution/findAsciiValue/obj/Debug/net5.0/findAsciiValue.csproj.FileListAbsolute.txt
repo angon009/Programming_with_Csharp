@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\ref\findAsciiValue.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\bin\Debug\net5.0\findAsciiValue.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\ref\findAsciiValue.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\findAsciiValue-Solution\findAsciiValue\obj\Debug\net5.0\findAsciiValue.genruntimeconfig.cache
