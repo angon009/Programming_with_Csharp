@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\ref\findElementFromArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\bin\Debug\net5.0\findElementFromArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\ref\findElementFromArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\findElementFromArray-Solution\findElementFromArray\obj\Debug\net5.0\findElementFromArray.csprojAssemblyReference.cache
