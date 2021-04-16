@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ref\ternaryOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\bin\Debug\net5.0\ternaryOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ref\ternaryOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ternaryOperator\obj\Debug\net5.0\ternaryOperator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ref\ifElseStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\bin\Debug\net5.0\ifElseStatement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ref\ifElseStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\ifElseStatement\obj\Debug\net5.0\ifElseStatement.genruntimeconfig.cache

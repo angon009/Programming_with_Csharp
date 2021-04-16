@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\ref\SwithStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\bin\Debug\net5.0\SwithStatement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\ref\SwithStatement.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\ConditionalStatements-Solution\SwithStatement\obj\Debug\net5.0\SwithStatement.genruntimeconfig.cache
