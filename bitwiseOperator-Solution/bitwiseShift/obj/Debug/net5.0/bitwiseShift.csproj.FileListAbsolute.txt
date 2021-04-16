@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\ref\bitwiseShift.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\bin\Debug\net5.0\bitwiseShift.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\ref\bitwiseShift.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseShift\obj\Debug\net5.0\bitwiseShift.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\ref\SimpleBitwiseOperation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\bin\Debug\net5.0\SimpleBitwiseOperation.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\ref\SimpleBitwiseOperation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\SimpleBitwiseOperation\obj\Debug\net5.0\SimpleBitwiseOperation.genruntimeconfig.cache

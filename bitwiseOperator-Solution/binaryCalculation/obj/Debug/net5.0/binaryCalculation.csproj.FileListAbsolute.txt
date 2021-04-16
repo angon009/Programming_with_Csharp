@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\ref\binaryCalculation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\bin\Debug\net5.0\binaryCalculation.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\ref\binaryCalculation.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\binaryCalculation\obj\Debug\net5.0\binaryCalculation.csprojAssemblyReference.cache

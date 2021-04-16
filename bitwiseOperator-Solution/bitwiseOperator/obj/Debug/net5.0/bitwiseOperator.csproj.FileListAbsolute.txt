@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\ref\bitwiseOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\bin\Debug\net5.0\bitwiseOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\ref\bitwiseOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\bitwiseOperator\obj\Debug\net5.0\bitwiseOperator.csprojAssemblyReference.cache

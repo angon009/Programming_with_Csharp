@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\ref\logicalCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\bin\Debug\net5.0\logicalCalculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\ref\logicalCalculator.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\bitwiseOperator-Solution\logicalCalculator\obj\Debug\net5.0\logicalCalculator.genruntimeconfig.cache
