@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\ref\multiDimensionalArray2.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\bin\Debug\net5.0\multiDimensionalArray2.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\ref\multiDimensionalArray2.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\multiDimensionalArray2-Solution\multiDimensionalArray2\obj\Debug\net5.0\multiDimensionalArray2.genruntimeconfig.cache
