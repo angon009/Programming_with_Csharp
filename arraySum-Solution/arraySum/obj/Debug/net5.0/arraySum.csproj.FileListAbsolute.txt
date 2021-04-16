@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\ref\arraySum.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\bin\Debug\net5.0\arraySum.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\ref\arraySum.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\arraySum-Solution\arraySum\obj\Debug\net5.0\arraySum.genruntimeconfig.cache
