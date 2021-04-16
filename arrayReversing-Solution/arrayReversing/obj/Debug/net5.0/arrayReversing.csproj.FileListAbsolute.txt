@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\ref\arrayReversing.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\bin\Debug\net5.0\arrayReversing.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\ref\arrayReversing.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\arrayReversing-Solution\arrayReversing\obj\Debug\net5.0\arrayReversing.genruntimeconfig.cache
