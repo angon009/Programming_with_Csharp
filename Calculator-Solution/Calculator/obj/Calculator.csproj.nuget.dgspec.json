@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Calculator-Solution\\Calculator\\Calculator.csproj": {}
+    "Z:\\Professional Programming With C#(Dev Skill)\\Code\\Calculator-Solution\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Calculator-Solution\\Calculator\\Calculator.csproj": {
+    "Z:\\Professional Programming With C#(Dev Skill)\\Code\\Calculator-Solution\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Calculator-Solution\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\Calculator-Solution\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Calculator-Solution\\Calculator\\Calculator.csproj",
+        "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\Calculator-Solution\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-        "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Calculator-Solution\\Calculator\\obj\\",
+        "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\Calculator-Solution\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",

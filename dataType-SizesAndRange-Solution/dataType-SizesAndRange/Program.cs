@@ -26,10 +26,10 @@ namespace dataTypes
             float num9 = 13.66f;//Range : -3.402823e38 to 3.402823e38
             //Size : 32-bit -> 4-byte
 
-            double num10 = 13.567;//Range : -1.79769313486232e308 to 1.79769313486232e308
+            double num10 = 13.567d;//Range : -1.79769313486232e308 to 1.79769313486232e308
             //Size : 64-bit -> 8-byte
 
-            decimal num11 = 13.4567M; //Range : (+ or -)1.0 x 10e-28 to 7.9 x 10e28
+            decimal num11 = 13.4567m; //Range : (+ or -)1.0 x 10e-28 to 7.9 x 10e28
             //Size : 96-bit -> 24-byte
             //decimal can store values with more precision then double
             //decimal is used in financial and monetary calculations where every single penny is important

@@ -13,3 +13,4 @@ Z:\Professional Programming With C#(Dev Skill)\Code\oneDimensionalArray-Solution
 Z:\Professional Programming With C#(Dev Skill)\Code\oneDimensionalArray-Solution\oneDimensionalArray\obj\Debug\net5.0\ref\oneDimensionalArray.dll
 Z:\Professional Programming With C#(Dev Skill)\Code\oneDimensionalArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.pdb
 Z:\Professional Programming With C#(Dev Skill)\Code\oneDimensionalArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\oneDimensionalArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.csprojAssemblyReference.cache

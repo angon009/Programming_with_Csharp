@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj": {}
+    "C:\\Users\\Angon\\source\\repos\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj": {}
   },
   "projects": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj": {
+    "C:\\Users\\Angon\\source\\repos\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Angon\\source\\repos\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj",
         "projectName": "VerySimpleCalculator",
-        "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj",
+        "projectPath": "C:\\Users\\Angon\\source\\repos\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\VerySimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-        "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Angon\\source\\repos\\VerySimpleCalculator-Solution\\VerySimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",

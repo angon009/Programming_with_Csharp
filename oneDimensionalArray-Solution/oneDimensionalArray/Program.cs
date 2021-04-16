@@ -16,7 +16,7 @@ namespace oneDimensionalArray
 
             int[] firstArr = new int[size];
 
-            Console.WriteLine("Enter the values = ");
+            Console.Write("Enter the values = ");
 
             for(int i = 0; i < size; i++)
             {
