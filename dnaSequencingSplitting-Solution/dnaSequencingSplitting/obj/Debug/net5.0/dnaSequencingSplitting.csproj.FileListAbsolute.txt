@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\ref\dnaSequencingSplitting.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\bin\Debug\net5.0\dnaSequencingSplitting.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\ref\dnaSequencingSplitting.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\dnaSequencingSplitting-Solution\dnaSequencingSplitting\obj\Debug\net5.0\dnaSequencingSplitting.genruntimeconfig.cache
