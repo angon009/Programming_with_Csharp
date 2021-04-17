@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\ref\multiDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\bin\Debug\net5.0\multiDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\ref\multiDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\multiDimensionalArray\obj\Debug\net5.0\multiDimensionalArray.genruntimeconfig.cache

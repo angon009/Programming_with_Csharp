@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\ref\singleDimensionArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\bin\Debug\net5.0\singleDimensionArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\ref\singleDimensionArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\singleDimensionArray\obj\Debug\net5.0\singleDimensionArray.genruntimeconfig.cache

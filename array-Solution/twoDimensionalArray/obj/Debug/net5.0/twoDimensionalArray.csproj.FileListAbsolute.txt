@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\ref\twoDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\bin\Debug\net5.0\twoDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\ref\twoDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalArray\obj\Debug\net5.0\twoDimensionalArray.genruntimeconfig.cache

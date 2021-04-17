@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\ref\threeDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\bin\Debug\net5.0\threeDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\ref\threeDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\threeDimensionalArray\obj\Debug\net5.0\threeDimensionalArray.csprojAssemblyReference.cache
