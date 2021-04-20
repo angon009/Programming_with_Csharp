@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\ref\basicWhileLoopExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\bin\Debug\net5.0\basicWhileLoopExample.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\ref\basicWhileLoopExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\basicWhileLoopExample\obj\Debug\net5.0\basicWhileLoopExample.genruntimeconfig.cache
