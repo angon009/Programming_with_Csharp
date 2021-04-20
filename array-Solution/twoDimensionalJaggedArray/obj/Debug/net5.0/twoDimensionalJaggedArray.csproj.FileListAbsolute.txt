@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\ref\twoDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\bin\Debug\net5.0\twoDimensionalJaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\ref\twoDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\twoDimensionalJaggedArray\obj\Debug\net5.0\twoDimensionalJaggedArray.csprojAssemblyReference.cache

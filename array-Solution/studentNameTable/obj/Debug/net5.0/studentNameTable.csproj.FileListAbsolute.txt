@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\ref\studentNameTable.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\bin\Debug\net5.0\studentNameTable.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\ref\studentNameTable.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentNameTable\obj\Debug\net5.0\studentNameTable.csprojAssemblyReference.cache

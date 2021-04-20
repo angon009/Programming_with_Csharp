@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\ref\studentMarks.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\bin\Debug\net5.0\studentMarks.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\ref\studentMarks.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\studentMarks\obj\Debug\net5.0\studentMarks.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\ref\jaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\bin\Debug\net5.0\jaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\ref\jaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\array-Solution\jaggedArray\obj\Debug\net5.0\jaggedArray.genruntimeconfig.cache
