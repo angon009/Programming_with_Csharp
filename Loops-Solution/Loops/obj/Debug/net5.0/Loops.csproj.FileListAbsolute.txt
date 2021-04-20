@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\ref\Loops.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\bin\Debug\net5.0\Loops.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\ref\Loops.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
