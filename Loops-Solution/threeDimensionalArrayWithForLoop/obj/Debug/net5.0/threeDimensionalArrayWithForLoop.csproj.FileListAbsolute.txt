@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\ref\threeDimensionalArrayWithForLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\bin\Debug\net5.0\threeDimensionalArrayWithForLoop.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\ref\threeDimensionalArrayWithForLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\threeDimensionalArrayWithForLoop\obj\Debug\net5.0\threeDimensionalArrayWithForLoop.genruntimeconfig.cache

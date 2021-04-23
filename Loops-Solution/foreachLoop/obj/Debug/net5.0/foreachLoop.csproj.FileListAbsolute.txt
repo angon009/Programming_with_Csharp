@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.exe
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\ref\foreachLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\bin\Debug\net5.0\foreachLoop.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\ref\foreachLoop.dll
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.pdb
+Z:\Professional Programming With C#(Dev Skill)\Code\Loops-Solution\foreachLoop\obj\Debug\net5.0\foreachLoop.genruntimeconfig.cache

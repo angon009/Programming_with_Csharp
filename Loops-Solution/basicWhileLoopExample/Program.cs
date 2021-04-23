@@ -11,7 +11,7 @@ namespace basicWhileLoopExample
             Console.Write("Enter Decimal Number : ");
             int number = int.Parse(Console.ReadLine());
 
-            int[] binaryNumber = new int[1];
+            int[] binaryNumber = new int[number];
 
 
             int result, i = 0;

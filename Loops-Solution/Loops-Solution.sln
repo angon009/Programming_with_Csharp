@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicForLoopExample", "basicForLoopExample\basicForLoopExample.csproj", "{F27BF278-D2CE-4D6A-A9FB-A2F498AB9A5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicForLoopExample", "basicForLoopExample\basicForLoopExample.csproj", "{F27BF278-D2CE-4D6A-A9FB-A2F498AB9A5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basicWhileLoopExample", "basicWhileLoopExample\basicWhileLoopExample.csproj", "{11EF0193-5997-4D0B-9754-29143AD94A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basicWhileLoopExample", "basicWhileLoopExample\basicWhileLoopExample.csproj", "{11EF0193-5997-4D0B-9754-29143AD94A38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreachLoop", "foreachLoop\foreachLoop.csproj", "{BF48D22B-9288-403E-B424-6BF192490A22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "threeDimensionalArrayWithForLoop", "threeDimensionalArrayWithForLoop\threeDimensionalArrayWithForLoop.csproj", "{2B15256A-F4A0-48B2-BEBE-ACCD4F76767E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threeDimensionalJaggedArray", "threeDimensionalJaggedArray\threeDimensionalJaggedArray.csproj", "{3B5B6D00-74D2-41CA-BA94-194088656CC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{11EF0193-5997-4D0B-9754-29143AD94A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11EF0193-5997-4D0B-9754-29143AD94A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11EF0193-5997-4D0B-9754-29143AD94A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF48D22B-9288-403E-B424-6BF192490A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF48D22B-9288-403E-B424-6BF192490A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF48D22B-9288-403E-B424-6BF192490A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF48D22B-9288-403E-B424-6BF192490A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B15256A-F4A0-48B2-BEBE-ACCD4F76767E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B15256A-F4A0-48B2-BEBE-ACCD4F76767E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B15256A-F4A0-48B2-BEBE-ACCD4F76767E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B15256A-F4A0-48B2-BEBE-ACCD4F76767E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5B6D00-74D2-41CA-BA94-194088656CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5B6D00-74D2-41CA-BA94-194088656CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5B6D00-74D2-41CA-BA94-194088656CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5B6D00-74D2-41CA-BA94-194088656CC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
