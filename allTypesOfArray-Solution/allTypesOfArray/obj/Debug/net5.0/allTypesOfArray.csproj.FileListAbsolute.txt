@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\ref\allTypesOfArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\bin\Debug\net5.0\allTypesOfArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\ref\allTypesOfArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\allTypesOfArray\obj\Debug\net5.0\allTypesOfArray.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeforcesProblemSolving", "codeforcesProblemSolving\codeforcesProblemSolving.csproj", "{AFC8DF32-DE59-440C-A093-7BA6B8A36C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-SpyDetected", "A-SpyDetected\A-SpyDetected.csproj", "{98CF2129-2493-48E5-8733-030E69A2C3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC8DF32-DE59-440C-A093-7BA6B8A36C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC8DF32-DE59-440C-A093-7BA6B8A36C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC8DF32-DE59-440C-A093-7BA6B8A36C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC8DF32-DE59-440C-A093-7BA6B8A36C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CF2129-2493-48E5-8733-030E69A2C3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CF2129-2493-48E5-8733-030E69A2C3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CF2129-2493-48E5-8733-030E69A2C3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CF2129-2493-48E5-8733-030E69A2C3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099AA027-A03A-4E4A-A46F-D6EC5ED9B07F}
+	EndGlobalSection
+EndGlobal

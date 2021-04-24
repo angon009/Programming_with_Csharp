@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\ref\oneDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\bin\Debug\net5.0\oneDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\ref\oneDimensionalArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\oneDimensionalArray\obj\Debug\net5.0\oneDimensionalArray.genruntimeconfig.cache

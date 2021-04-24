@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\ref\A-SpyDetected.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\bin\Debug\net5.0\A-SpyDetected.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\ref\A-SpyDetected.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\codeforcesProblemSolving\A-SpyDetected\obj\Debug\net5.0\A-SpyDetected.genruntimeconfig.cache

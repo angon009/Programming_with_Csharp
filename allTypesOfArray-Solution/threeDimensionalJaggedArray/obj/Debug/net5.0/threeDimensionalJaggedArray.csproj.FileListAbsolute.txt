@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\ref\threeDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\bin\Debug\net5.0\threeDimensionalJaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\ref\threeDimensionalJaggedArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\allTypesOfArray-Solution\threeDimensionalJaggedArray\obj\Debug\net5.0\threeDimensionalJaggedArray.genruntimeconfig.cache
