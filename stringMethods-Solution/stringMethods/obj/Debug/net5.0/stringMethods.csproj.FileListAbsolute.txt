@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\ref\stringMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\bin\Debug\net5.0\stringMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\ref\stringMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\stringMethods\obj\Debug\net5.0\stringMethods.genruntimeconfig.cache
