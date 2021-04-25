@@ -35,7 +35,7 @@ namespace threeDimensionalJaggedArray
                     array[i][j] = new int[totalElementsIn];
 
                     for(var k = 0; k < array[i][j].Length; k++)
-                    {
+                    { 
                         Console.Write($"ARRAY[{i}][{j}][{k}] = ");
                         int elements = int.Parse(Console.ReadLine());
 
