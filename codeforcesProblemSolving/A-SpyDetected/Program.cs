@@ -21,7 +21,8 @@ namespace A_SpyDetected
                 //Taking Inputs
                 for (var i = 0; i < totalElement; i++)
                 {
-                    int element =  int.Parse(Console.ReadLine());
+                    
+                    element =  int.Parse(Console.ReadLine());
                     array[i] =  element;
                 }
 
