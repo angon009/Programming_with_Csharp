@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\ref\compareToMethod.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\bin\Debug\net5.0\compareToMethod.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\ref\compareToMethod.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\compareMethod\obj\Debug\net5.0\compareToMethod.genruntimeconfig.cache
