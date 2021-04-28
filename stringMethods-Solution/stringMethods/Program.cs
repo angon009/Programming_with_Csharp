@@ -85,36 +85,20 @@ namespace stringMethods
             Console.WriteLine("Last Name = " + fullName2);
 
 
+            //Find index of any character from a string
+            //stringName.indexOfAny(new char[]{elements,....,....})
+
+            string countryName = "Bangladeshe";
+            int indexNumber = countryName.IndexOfAny(new char[] { 'a', 'd','e'});
+
+            Console.WriteLine(indexNumber);
 
 
 
-            /*All types of string modification will create a new string after each modification
-            But old string remains as before internally
-            So if you do so many modification on string it will create too many string which
-            will take spaces from your computer*/
-
-            //StringBuilder(A special data structure and a special data type)
-            //StringBuilder don't create a new string after modification
-
-            //StringBuilder declaration
-            StringBuilder builderString = new StringBuilder();
-
-            string dnaSequence = "ATGCCGAAATTTCCCGGAATATCCGCGCGATTCG";
-
-            StringBuilder dnaSequenceBuilder = new StringBuilder(dnaSequence);
-
-            //Replace all T with U
-            for (var i = 0; i < dnaSequence.Length; i++)
-            {
-                if (dnaSequenceBuilder[i] == 'T')
-                {
-                    dnaSequenceBuilder[i] = 'U';
-                }
-            }
-            dnaSequence = dnaSequenceBuilder.ToString();
-            Console.WriteLine(dnaSequence);
 
 
+
+           
         }
     }
 }

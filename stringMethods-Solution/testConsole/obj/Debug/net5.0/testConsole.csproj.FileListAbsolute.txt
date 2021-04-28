@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\ref\testConsole.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\bin\Debug\net5.0\testConsole.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\ref\testConsole.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\stringMethods-Solution\testConsole\obj\Debug\net5.0\testConsole.genruntimeconfig.cache
