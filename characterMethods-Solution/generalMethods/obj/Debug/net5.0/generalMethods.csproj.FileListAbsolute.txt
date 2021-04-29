@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\ref\generalMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\bin\Debug\net5.0\generalMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\ref\generalMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\characterMethods-Solution\generalMethods\obj\Debug\net5.0\generalMethods.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\ref\testClass.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\bin\Debug\net5.0\testClass.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\ref\testClass.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testClass-Solution\testClass\obj\Debug\net5.0\testClass.genruntimeconfig.cache

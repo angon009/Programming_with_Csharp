@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\ref\bloodDonationManagement.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\bin\Debug\net5.0\bloodDonationManagement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\ref\bloodDonationManagement.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\bloodDonationManagement-Solution\bloodDonationManagement\obj\Debug\net5.0\bloodDonationManagement.genruntimeconfig.cache

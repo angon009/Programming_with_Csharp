@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\ref\frequecyCalculatorAtoZ.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\bin\Debug\net5.0\frequecyCalculatorAtoZ.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\ref\frequecyCalculatorAtoZ.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\frequecyCalculatorAtoZ-Solution\frequecyCalculatorAtoZ\obj\Debug\net5.0\frequecyCalculatorAtoZ.genruntimeconfig.cache
