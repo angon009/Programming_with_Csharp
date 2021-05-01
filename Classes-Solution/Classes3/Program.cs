@@ -4,6 +4,7 @@ namespace Classes3
 {
     class Program
     {
+        static int v = 10;
         static void Main(string[] args)
         {
             Authority authority = new Authority();
