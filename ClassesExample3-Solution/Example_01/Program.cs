@@ -25,8 +25,9 @@ namespace Example_01
 
             student.className = "Nine"; //field declared as Protected internal
 
-            Class1 class1 = new Class1();
 
+
+            Class1 class1 = new Class1(); // Getting codes from dll file
             Console.WriteLine(class1.codeLib);
 
         }
