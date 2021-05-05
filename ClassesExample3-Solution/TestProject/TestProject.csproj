@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="CodeLibrary">
-      <HintPath>..\CodeLibrary.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\Example_01\Example_01.csproj" />
   </ItemGroup>
 
 </Project>

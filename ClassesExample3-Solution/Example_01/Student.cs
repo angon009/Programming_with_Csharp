@@ -16,6 +16,8 @@ namespace Example_01
 
         protected int classSerial; //This can be accessible by this class and it's child class
 
+        protected internal string className; //This can be accessible by the whole project solution and by its child 
+
         public string Info()
         {
             return $"Name : {name} || ID : {id}";

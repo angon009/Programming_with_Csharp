@@ -1,4 +1,5 @@
 ﻿using System;
+using CodeLibrary;
 
 namespace Example_01
 {
@@ -18,7 +19,15 @@ namespace Example_01
 
             Console.WriteLine(teacher.Info());
 
-            //student.hobby //Not Possible beacause it is a Private field//
+            //student.hobby //Not Possible beacause it is a Private field
+
+            //student.classSerial //Not Possible beacause it is Protected field 
+
+            student.className = "Nine"; //field declared as Protected internal
+
+            Class1 class1 = new Class1();
+
+            Console.WriteLine(class1.codeLib);
 
         }
     }

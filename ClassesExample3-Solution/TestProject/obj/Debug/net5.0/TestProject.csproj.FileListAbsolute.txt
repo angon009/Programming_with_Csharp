@@ -1,0 +1,5 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\TestProject\obj\Debug\net5.0\TestProject.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache

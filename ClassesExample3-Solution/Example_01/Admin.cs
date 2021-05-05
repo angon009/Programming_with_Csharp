@@ -11,6 +11,8 @@ namespace Example_01
         public Admin()
         {
             //hobby - > This field can't be accessed beacause it is declared as 'Private'
+
+
             classSerial = 2; // This field is accessible it is declared as 'Protected'
         }
     }
