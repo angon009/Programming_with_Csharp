@@ -18,7 +18,7 @@ namespace Example_01
 
             Console.WriteLine(teacher.Info());
 
-            
+            //student.hobby //Not Possible beacause it is a Private field//
 
         }
     }
