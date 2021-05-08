@@ -15,5 +15,16 @@ namespace Example_01
 
             classSerial = 2; // This field is accessible it is declared as 'Protected'
         }
+
+        public int StudentFees { get; private set; }
+
+        public int TeacherSalary { get; private set; }
+
+        public Admin(int salary, int fees) // Parameterized Constructor
+        {
+            StudentFees = salary;
+            TeacherSalary = fees;
+        }
+
     }
 }

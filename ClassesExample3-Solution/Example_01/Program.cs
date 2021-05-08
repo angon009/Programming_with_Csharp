@@ -8,14 +8,16 @@ namespace Example_01
         static void Main(string[] args)
         {
             Student student = new Student();
-            student.name = "Angon Chowdhury";
-            student.id = 6666;
+            student.Name = Console.ReadLine();
+            student.Id = 6666;
+
+            //Console.WriteLine(student.Name); //It's not possible because 'get' is private
 
             Console.WriteLine(student.Info());
 
             Teacher teacher = new Teacher();
-            teacher.name = "Jalal Uddin";
-            teacher.id = 1111;
+            teacher.Name = "Jalal Uddin";
+            teacher.Id = 1111;
 
             Console.WriteLine(teacher.Info());
 
@@ -29,6 +31,17 @@ namespace Example_01
 
             Class1 class1 = new Class1(); // Getting codes from dll file
             Console.WriteLine(class1.codeLib);
+
+            Console.Write("Enter Teacher Salary = ");
+            teacher.Salary = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Salary : " + teacher.Salary);
+
+            Admin admin = new Admin(800,5000);
+
+            //admin.TeacherFees = 6000; // It's not possible because 'set' is 'private'
+            Console.WriteLine("Teacher Salary :  " + admin.TeacherSalary);
+            Console.WriteLine("Student Fees : " + admin.StudentFees);
 
         }
     }

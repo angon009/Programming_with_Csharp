@@ -8,9 +8,23 @@ namespace Example_01
 {
     public class Student
     {
-        public string name;
+        private string _name;
+        public string Name 
+        { 
+            private get 
+            {
+                    return _name;
+            }
+            set 
+            {
+                if (value == String.Empty)
+                      _name = "Undefined";
+                else
+                     _name = value;
+            }
+        }
 
-        public int id;
+        public int Id { get; set; }
 
         private string hobby; // This can be accessible only by this class
 
@@ -20,7 +34,7 @@ namespace Example_01
 
         public string Info()
         {
-            return $"Name : {name} || ID : {id}";
+            return $"Name : {Name} || ID : {Id}";
         }
     }
 }
