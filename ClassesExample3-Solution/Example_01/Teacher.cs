@@ -22,7 +22,7 @@ namespace Example_01
 
         private int _teacherSalary;
 
-        public int Salary
+        public int Salary //Applying restrictions on variable by using parameter
         {
             get
             {

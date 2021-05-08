@@ -9,7 +9,7 @@ namespace Example_01
     public class Student
     {
         private string _name;
-        public string Name 
+        public string Name  //Applying restrictions on variable by using parameter
         { 
             private get 
             {
@@ -24,7 +24,7 @@ namespace Example_01
             }
         }
 
-        public int Id { get; set; }
+        public int Id { get; set; } //Auto Property
 
         private string hobby; // This can be accessible only by this class
 
