@@ -23,7 +23,7 @@ namespace Example_02
             Console.WriteLine("House Information : ");
             Console.WriteLine(houseOwner.HouseInfo());
 
-
+            //Console.WriteLine(houseOwner.AdvancePay); // Not possible because get is Private
 
             HouseSeeker houseSeeker = new HouseSeeker();
 
@@ -38,6 +38,8 @@ namespace Example_02
 
             Console.Write("Gender : ");
             houseSeeker.Gender = Console.ReadLine();
+
+            //Console.WriteLine(houseSeeker.Type); // Not possible because get is Private
 
 
             Console.WriteLine(houseSeeker.SeekerInfo());

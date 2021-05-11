@@ -13,7 +13,7 @@ namespace Example_02
 
         public string Type
         {
-            get
+            private get
             {
                 if (_seekerType.ToLower() == "bachelor" || _seekerType.ToLower() == "family" || _seekerType.ToLower() == "roommate")
                     return _seekerType;

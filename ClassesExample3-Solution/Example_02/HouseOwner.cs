@@ -15,7 +15,7 @@ namespace Example_02
         private int _advancePay;
         public int AdvancePay 
         {
-            get
+            private get
             {
                 if (_advancePay > 3 * houseRent)
                     return _advancePay = 3*houseRent;
