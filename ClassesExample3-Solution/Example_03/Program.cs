@@ -34,6 +34,11 @@ namespace Example_03
 
             //orderBottle5.maxCapacity = 100; // Not possible because readonly variable can be assigned only in constructor
             //orderBottle5.material = "Glass"; // Not possible because it is a const variable
+
+
+            Console.WriteLine(OrderBottle.productionSerial);
+
+             
         }
     }
 }

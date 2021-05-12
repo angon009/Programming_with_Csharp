@@ -18,6 +18,9 @@ namespace Example_03
 
         public const string material = "Plastic"; // Constant variable
 
+        public static int productionSerial = 0;
+
+
          
         //Parameterized Constructor
         public OrderBottle(string colour,double height,double weight , int maxWater)  
@@ -27,12 +30,14 @@ namespace Example_03
             Weight = weight;
             maxCapacity = maxWater;
             //material = "Glass"; // Not possible because it is a const variable
+            productionSerial++;
         }
         public OrderBottle(double height,double weight)  
         {
             Colour = "Transparent";
             Height = height;
             Weight = weight;
+            productionSerial++;
         }
         public OrderBottle(double weight)  
             :this(100 , weight) //Constructor Chaining
