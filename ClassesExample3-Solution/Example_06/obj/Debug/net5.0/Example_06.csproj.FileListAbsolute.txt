@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\ref\Example_06.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\bin\Debug\net5.0\Example_06.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\ref\Example_06.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ClassesExample3-Solution\Example_06\obj\Debug\net5.0\Example_06.genruntimeconfig.cache
