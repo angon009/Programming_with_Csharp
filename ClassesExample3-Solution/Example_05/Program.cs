@@ -16,7 +16,7 @@ namespace Example_05
 
             gadgets.GadgetDiscount();
 
-            //gadgets.Reviews(); 
+            //gadgets.Reviews(); // Reviews is not a method of gadget class
 
             GadgetsBill gadgetsBill = new GadgetRating();
 
