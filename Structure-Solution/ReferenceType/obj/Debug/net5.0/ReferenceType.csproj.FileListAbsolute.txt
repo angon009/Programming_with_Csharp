@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache

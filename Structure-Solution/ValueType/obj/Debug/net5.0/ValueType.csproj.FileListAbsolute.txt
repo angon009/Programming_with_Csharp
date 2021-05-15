@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ref\ValueType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\bin\Debug\net5.0\ValueType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ref\ValueType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Structure-Solution\ValueType\obj\Debug\net5.0\ValueType.genruntimeconfig.cache
