@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\ref\Example_05.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\bin\Debug\net5.0\Example_05.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\ref\Example_05.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Enum-Solution\Example_05\obj\Debug\net5.0\Example_05.genruntimeconfig.cache
