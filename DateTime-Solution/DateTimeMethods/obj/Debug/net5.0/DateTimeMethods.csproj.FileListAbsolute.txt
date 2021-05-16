@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\ref\DateTimeMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\bin\Debug\net5.0\DateTimeMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\ref\DateTimeMethods.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeMethods\obj\Debug\net5.0\DateTimeMethods.genruntimeconfig.cache

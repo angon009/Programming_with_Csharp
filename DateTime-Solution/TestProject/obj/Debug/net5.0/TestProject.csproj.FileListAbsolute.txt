@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\ref\TestProject.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\bin\Debug\net5.0\TestProject.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\ref\TestProject.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TestProject\obj\Debug\net5.0\TestProject.genruntimeconfig.cache

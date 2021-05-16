@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\ref\BloodDonationDateCounter.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\bin\Debug\net5.0\BloodDonationDateCounter.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\ref\BloodDonationDateCounter.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\BloodDonationDateCounter\obj\Debug\net5.0\BloodDonationDateCounter.genruntimeconfig.cache

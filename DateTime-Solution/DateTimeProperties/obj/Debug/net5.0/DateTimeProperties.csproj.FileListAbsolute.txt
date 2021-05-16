@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\ref\DateTimeProperties.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\bin\Debug\net5.0\DateTimeProperties.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\ref\DateTimeProperties.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeProperties\obj\Debug\net5.0\DateTimeProperties.genruntimeconfig.cache

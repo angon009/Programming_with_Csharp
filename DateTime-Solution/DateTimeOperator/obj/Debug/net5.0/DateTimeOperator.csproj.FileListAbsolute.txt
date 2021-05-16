@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\ref\DateTimeOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\bin\Debug\net5.0\DateTimeOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\ref\DateTimeOperator.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeOperator\obj\Debug\net5.0\DateTimeOperator.genruntimeconfig.cache
