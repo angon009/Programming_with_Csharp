@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\ref\TimeZoneExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\bin\Debug\net5.0\TimeZoneExample.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\ref\TimeZoneExample.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\TimeZoneExample\obj\Debug\net5.0\TimeZoneExample.genruntimeconfig.cache

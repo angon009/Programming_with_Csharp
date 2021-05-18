@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\ref\DateTimeFormatting.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\bin\Debug\net5.0\DateTimeFormatting.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\ref\DateTimeFormatting.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.genruntimeconfig.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\DateTime-Solution\DateTimeFormatting\obj\Debug\net5.0\DateTimeFormatting.csprojAssemblyReference.cache
