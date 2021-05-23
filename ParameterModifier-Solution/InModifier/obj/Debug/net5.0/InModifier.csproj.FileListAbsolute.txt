@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\ref\InModifier.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\bin\Debug\net5.0\InModifier.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\ref\InModifier.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\InModifier\obj\Debug\net5.0\InModifier.genruntimeconfig.cache

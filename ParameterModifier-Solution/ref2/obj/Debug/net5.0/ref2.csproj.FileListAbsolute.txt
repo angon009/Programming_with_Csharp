@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref\ref2.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\bin\Debug\net5.0\ref2.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref\ref2.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\ref2\obj\Debug\net5.0\ref2.genruntimeconfig.cache

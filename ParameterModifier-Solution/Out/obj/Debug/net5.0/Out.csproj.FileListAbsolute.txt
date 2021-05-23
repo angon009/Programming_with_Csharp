@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\ref\Out.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\bin\Debug\net5.0\Out.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\ref\Out.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\Out\obj\Debug\net5.0\Out.genruntimeconfig.cache
