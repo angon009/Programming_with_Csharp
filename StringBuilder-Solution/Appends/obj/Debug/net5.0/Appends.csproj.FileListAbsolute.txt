@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\ref\Appends.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\bin\Debug\net5.0\Appends.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\ref\Appends.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Appends\obj\Debug\net5.0\Appends.genruntimeconfig.cache

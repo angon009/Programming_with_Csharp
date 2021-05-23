@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\ref\Insert.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\bin\Debug\net5.0\Insert.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\ref\Insert.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Insert\obj\Debug\net5.0\Insert.genruntimeconfig.cache

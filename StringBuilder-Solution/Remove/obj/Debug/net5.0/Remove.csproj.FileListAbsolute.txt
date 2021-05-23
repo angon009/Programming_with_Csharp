@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\ref\Remove.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\bin\Debug\net5.0\Remove.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\ref\Remove.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\StringBuilder-Solution\Remove\obj\Debug\net5.0\Remove.genruntimeconfig.cache
