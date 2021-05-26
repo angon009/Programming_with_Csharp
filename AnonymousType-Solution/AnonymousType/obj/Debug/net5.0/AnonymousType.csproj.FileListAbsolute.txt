@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\ref\AnonymousType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\bin\Debug\net5.0\AnonymousType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\ref\AnonymousType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousType\obj\Debug\net5.0\AnonymousType.genruntimeconfig.cache

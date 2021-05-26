@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\ref\NullableDataType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\bin\Debug\net5.0\NullableDataType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\ref\NullableDataType.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\NullableDataType-Solution\NullableDataType\obj\Debug\net5.0\NullableDataType.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\ref\Tupple.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\bin\Debug\net5.0\Tupple.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\ref\Tupple.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\Tupple\obj\Debug\net5.0\Tupple.genruntimeconfig.cache
