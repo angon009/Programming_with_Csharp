@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\ref\AnonymousArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\bin\Debug\net5.0\AnonymousArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\ref\AnonymousArray.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\AnonymousType-Solution\AnonymousArray\obj\Debug\net5.0\AnonymousArray.genruntimeconfig.cache
