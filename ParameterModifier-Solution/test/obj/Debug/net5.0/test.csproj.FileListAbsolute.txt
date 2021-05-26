@@ -1,0 +1,15 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\ref\test.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\bin\Debug\net5.0\test.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\ref\test.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\ParameterModifier-Solution\test\obj\Debug\net5.0\test.genruntimeconfig.cache
