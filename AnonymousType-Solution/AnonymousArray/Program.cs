@@ -20,10 +20,10 @@ namespace AnonymousArray
                 Console.WriteLine($"{studentList[i].name}  {studentList[i].age}  {studentList[i].id}  {studentList[i].mail}");
             }
 
+            //To find elements which name start with A
             var searchFilter = studentList.Where(c => c.name.StartsWith("A")).ToList();
 
-            Console.WriteLine(searchFilter);
-
+            //To find elements which id is C182
             var studentName = studentList.FirstOrDefault(c => c.id == "C182");
         }
     }
