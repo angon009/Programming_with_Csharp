@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousType", "AnonymousType\AnonymousType.csproj", "{D14F2CFB-C0BF-4035-873C-3A5C00F3B84E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousType", "AnonymousType\AnonymousType.csproj", "{D14F2CFB-C0BF-4035-873C-3A5C00F3B84E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousArray", "AnonymousArray\AnonymousArray.csproj", "{3075965A-67B0-4E10-A092-2C2CBF47F90A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousArray", "AnonymousArray\AnonymousArray.csproj", "{3075965A-67B0-4E10-A092-2C2CBF47F90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleVsAnonymous", "TupleVsAnonymous\TupleVsAnonymous.csproj", "{7E5670E9-F2BA-4E25-B0E3-07EF16EC9A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3075965A-67B0-4E10-A092-2C2CBF47F90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3075965A-67B0-4E10-A092-2C2CBF47F90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3075965A-67B0-4E10-A092-2C2CBF47F90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5670E9-F2BA-4E25-B0E3-07EF16EC9A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5670E9-F2BA-4E25-B0E3-07EF16EC9A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5670E9-F2BA-4E25-B0E3-07EF16EC9A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5670E9-F2BA-4E25-B0E3-07EF16EC9A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

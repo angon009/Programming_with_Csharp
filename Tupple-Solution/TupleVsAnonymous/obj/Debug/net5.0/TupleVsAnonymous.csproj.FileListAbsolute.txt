@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\ref\TupleVsAnonymous.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\bin\Debug\net5.0\TupleVsAnonymous.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\ref\TupleVsAnonymous.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Tupple-Solution\TupleVsAnonymous\obj\Debug\net5.0\TupleVsAnonymous.genruntimeconfig.cache

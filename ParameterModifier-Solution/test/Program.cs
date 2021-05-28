@@ -29,7 +29,7 @@ namespace test
                 {
                     for (int i = 0, j = length - 1; i < length && j >= 0; i++, j--)
                     {
-                        if (charArray[i] == charArray[j])
+                        if (charArray[i] != charArray[j])
                         {
                             count++;
                         }
@@ -38,11 +38,11 @@ namespace test
                 }
                 if (count == 0)
                 {
-                    Console.WriteLine("Not Palindrome");
+                    Console.WriteLine("Palindrome");
                 }
                 else
                 {
-                    Console.WriteLine("Palindrome");
+                    Console.WriteLine("Not Palindrome");
                 }
             }
 

@@ -1,0 +1,16 @@
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.exe
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.deps.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.runtimeconfig.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.runtimeconfig.dev.json
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\ref\Non-Generic.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\bin\Debug\net5.0\Non-Generic.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.csprojAssemblyReference.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.AssemblyInfoInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.AssemblyInfo.cs
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.csproj.CoreCompileInputs.cache
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\ref\Non-Generic.dll
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.pdb
+Z:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-Solution\Non-Generic\obj\Debug\net5.0\Non-Generic.genruntimeconfig.cache
