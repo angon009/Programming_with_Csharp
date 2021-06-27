@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\arraySum-Solution\\arraySum\\arraySum.csproj",
+      "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\arraySum-Solution\\arraySum\\arraySum.csproj",
       "projectName": "arraySum",
-      "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\arraySum-Solution\\arraySum\\arraySum.csproj",
+      "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\arraySum-Solution\\arraySum\\arraySum.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Code\\arraySum-Solution\\arraySum\\obj\\",
+      "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\arraySum-Solution\\arraySum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

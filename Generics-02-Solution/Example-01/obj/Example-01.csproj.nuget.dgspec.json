@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj": {}
+    "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj": {}
   },
   "projects": {
-    "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj": {
+    "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj",
+        "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj",
         "projectName": "Example-01",
-        "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj",
+        "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\Example-01.csproj",
         "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-        "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\obj\\",
+        "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",

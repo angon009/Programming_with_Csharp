@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\Example-03.csproj",
+      "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\Example-03.csproj",
       "projectName": "Example-03",
-      "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\Example-03.csproj",
+      "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\Example-03.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\obj\\",
+      "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\Generics-02-Solution\\Example-03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",
