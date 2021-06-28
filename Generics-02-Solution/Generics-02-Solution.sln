@@ -9,17 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-02", "Example-02\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-03", "Example-03\Example-03.csproj", "{A5197BAB-D670-43FA-957A-B891293CCC0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-04", "Example-04\Example-04.csproj", "{4BF40566-E41B-4A8F-BD3D-C89614548654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-04", "Example-04\Example-04.csproj", "{4BF40566-E41B-4A8F-BD3D-C89614548654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-05", "Example-05\Example-05.csproj", "{0C0ECAA3-0DFF-4309-9CB8-66EBA15D361B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-05", "Example-05\Example-05.csproj", "{0C0ECAA3-0DFF-4309-9CB8-66EBA15D361B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-06", "Example_06\Example-06.csproj", "{298FC40B-DE7F-4385-B397-5ABE0C93643A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-06", "Example_06\Example-06.csproj", "{298FC40B-DE7F-4385-B397-5ABE0C93643A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-07", "Example-07\Example-07.csproj", "{ED3EB7EF-4DC9-4A08-964B-5B4BEE6E156F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-07", "Example-07\Example-07.csproj", "{ED3EB7EF-4DC9-4A08-964B-5B4BEE6E156F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-08", "Example-08\Example-08.csproj", "{70E26E5D-901B-458F-8EB6-D878414FA3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-08", "Example-08\Example-08.csproj", "{70E26E5D-901B-458F-8EB6-D878414FA3E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-09", "Example-09\Example-09.csproj", "{7FF83335-B1D3-4000-AA96-CD658B7E6144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-09", "Example-09\Example-09.csproj", "{7FF83335-B1D3-4000-AA96-CD658B7E6144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-10", "Example-10\Example-10.csproj", "{0CD78DB9-DFD7-4F18-8499-67C71A553858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod", "GenericMethod\GenericMethod.csproj", "{82F7A90A-E876-4B6F-8B06-5833DDA60465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod2", "GenericMethod2\GenericMethod2.csproj", "{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{7FF83335-B1D3-4000-AA96-CD658B7E6144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF83335-B1D3-4000-AA96-CD658B7E6144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF83335-B1D3-4000-AA96-CD658B7E6144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD78DB9-DFD7-4F18-8499-67C71A553858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD78DB9-DFD7-4F18-8499-67C71A553858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD78DB9-DFD7-4F18-8499-67C71A553858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD78DB9-DFD7-4F18-8499-67C71A553858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F7A90A-E876-4B6F-8B06-5833DDA60465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F7A90A-E876-4B6F-8B06-5833DDA60465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F7A90A-E876-4B6F-8B06-5833DDA60465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F7A90A-E876-4B6F-8B06-5833DDA60465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

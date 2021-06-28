@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\ref\GenericMethod.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\bin\Debug\net5.0\GenericMethod.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.csproj.AssemblyReference.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\ref\GenericMethod.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod\obj\Debug\net5.0\GenericMethod.genruntimeconfig.cache

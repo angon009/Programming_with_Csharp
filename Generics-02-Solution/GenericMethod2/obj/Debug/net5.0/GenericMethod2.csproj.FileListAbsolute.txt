@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\ref\GenericMethod2.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\bin\Debug\net5.0\GenericMethod2.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.csproj.AssemblyReference.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\ref\GenericMethod2.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-02-Solution\GenericMethod2\obj\Debug\net5.0\GenericMethod2.genruntimeconfig.cache
