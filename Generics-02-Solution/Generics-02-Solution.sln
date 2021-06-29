@@ -21,11 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-08", "Example-08\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-09", "Example-09\Example-09.csproj", "{7FF83335-B1D3-4000-AA96-CD658B7E6144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-10", "Example-10\Example-10.csproj", "{0CD78DB9-DFD7-4F18-8499-67C71A553858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-10", "Example-10\Example-10.csproj", "{0CD78DB9-DFD7-4F18-8499-67C71A553858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod", "GenericMethod\GenericMethod.csproj", "{82F7A90A-E876-4B6F-8B06-5833DDA60465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericMethod", "GenericMethod\GenericMethod.csproj", "{82F7A90A-E876-4B6F-8B06-5833DDA60465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod2", "GenericMethod2\GenericMethod2.csproj", "{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericMethod2", "GenericMethod2\GenericMethod2.csproj", "{FB3DB14A-D69A-4AA6-9C27-FBAB30318EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
