@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\ref\SortingElementsOfList.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\bin\Debug\net5.0\SortingElementsOfList.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.csproj.AssemblyReference.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\ref\SortingElementsOfList.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SortingElementsOfList\obj\Debug\net5.0\SortingElementsOfList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\ref\SearchingElementsInLlist.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\bin\Debug\net5.0\SearchingElementsInLlist.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\ref\SearchingElementsInLlist.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.genruntimeconfig.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsInLlist\obj\Debug\net5.0\SearchingElementsInLlist.csproj.AssemblyReference.cache

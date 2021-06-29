@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ref\ListExample-02.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\bin\Debug\net5.0\ListExample-02.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.csproj.AssemblyReference.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ref\ListExample-02.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\ListExample-02\obj\Debug\net5.0\ListExample-02.genruntimeconfig.cache
