@@ -1,0 +1,15 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\ref\SearchingElementsFromDictionary.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\bin\Debug\net5.0\SearchingElementsFromDictionary.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\ref\SearchingElementsFromDictionary.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\Generics-03-Solution\SearchingElementsFromDictionary\obj\Debug\net5.0\SearchingElementsFromDictionary.genruntimeconfig.cache

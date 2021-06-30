@@ -7,13 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListExample", "ListExample\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListExample-02", "ListExample-02\ListExample-02.csproj", "{FEC0B303-04CF-4B0D-B65F-851E0B913370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExample-03", "ListExample-03\ListExample-03.csproj", "{9C48D1C9-838B-4398-A184-A768E3F376B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListExample-03", "ListExample-03\ListExample-03.csproj", "{9C48D1C9-838B-4398-A184-A768E3F376B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovingItemFromList", "RemovingItemFromList\RemovingItemFromList.csproj", "{78AE3577-9B1C-4434-AB72-A668A0C9DBC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemovingItemFromList", "RemovingItemFromList\RemovingItemFromList.csproj", "{78AE3577-9B1C-4434-AB72-A668A0C9DBC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingElementsInLlist", "SearchingElementsInLlist\SearchingElementsInLlist.csproj", "{E33450CC-3554-44AA-B30C-AD62C5B7F78C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchingElementsInLlist", "SearchingElementsInLlist\SearchingElementsInLlist.csproj", "{E33450CC-3554-44AA-B30C-AD62C5B7F78C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingElementsOfList", "SortingElementsOfList\SortingElementsOfList.csproj", "{251522EE-DB09-4061-9791-A26A8C12251E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingElementsOfList", "SortingElementsOfList\SortingElementsOfList.csproj", "{251522EE-DB09-4061-9791-A26A8C12251E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExample", "DictionaryExample\DictionaryExample.csproj", "{79139B3F-2D61-4BB6-A7C7-3B8634B5C368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingElementsFromDictionary", "SearchingElementsFromDictionary\SearchingElementsFromDictionary.csproj", "{72161CB5-2C40-4979-9E92-53F1B22FF6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{44415BAD-47D8-43BE-B28E-63AF5E4E6E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueExample", "QueueExample\QueueExample.csproj", "{664BA8F3-FDAD-4F71-BDE8-DD8DF9BBB363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{251522EE-DB09-4061-9791-A26A8C12251E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251522EE-DB09-4061-9791-A26A8C12251E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{251522EE-DB09-4061-9791-A26A8C12251E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79139B3F-2D61-4BB6-A7C7-3B8634B5C368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79139B3F-2D61-4BB6-A7C7-3B8634B5C368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79139B3F-2D61-4BB6-A7C7-3B8634B5C368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79139B3F-2D61-4BB6-A7C7-3B8634B5C368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72161CB5-2C40-4979-9E92-53F1B22FF6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72161CB5-2C40-4979-9E92-53F1B22FF6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72161CB5-2C40-4979-9E92-53F1B22FF6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72161CB5-2C40-4979-9E92-53F1B22FF6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44415BAD-47D8-43BE-B28E-63AF5E4E6E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44415BAD-47D8-43BE-B28E-63AF5E4E6E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44415BAD-47D8-43BE-B28E-63AF5E4E6E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44415BAD-47D8-43BE-B28E-63AF5E4E6E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664BA8F3-FDAD-4F71-BDE8-DD8DF9BBB363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664BA8F3-FDAD-4F71-BDE8-DD8DF9BBB363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664BA8F3-FDAD-4F71-BDE8-DD8DF9BBB363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664BA8F3-FDAD-4F71-BDE8-DD8DF9BBB363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
