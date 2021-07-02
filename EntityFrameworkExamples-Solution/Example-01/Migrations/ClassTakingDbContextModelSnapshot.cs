@@ -21,8 +21,10 @@ namespace Example_01.Migrations
 
             modelBuilder.Entity("Example_01.Course", b =>
                 {
-                    b.Property<string>("courseId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("courseId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<decimal>("courseFee")
                         .HasColumnType("decimal(18,2)");
@@ -45,6 +47,9 @@ namespace Example_01.Migrations
                     b.Property<string>("address")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("courseId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("dateOfBirth")
                         .HasColumnType("datetime2");
 
@@ -52,6 +57,8 @@ namespace Example_01.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
+
+                    b.HasIndex("courseId");
 
                     b.ToTable("students");
                 });
@@ -75,6 +82,18 @@ namespace Example_01.Migrations
                     b.HasKey("id");
 
                     b.ToTable("teachers");
+                });
+
+            modelBuilder.Entity("Example_01.Student", b =>
+                {
+                    b.HasOne("Example_01.Course", null)
+                        .WithMany("enrolledStudents")
+                        .HasForeignKey("courseId");
+                });
+
+            modelBuilder.Entity("Example_01.Course", b =>
+                {
+                    b.Navigation("enrolledStudents");
                 });
 #pragma warning restore 612, 618
         }

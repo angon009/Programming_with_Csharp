@@ -8,8 +8,9 @@ namespace Example_01
 {
     public class Course
     {
-        public string courseId { get; set; } 
-        public decimal courseFee{ get; set; }
+        public int courseId { get; set; }
+        public decimal courseFee { get; set; }
         public DateTime courseStartDate { get; set; }
+        public List<Student> enrolledStudents { get; set; }
     }
 }

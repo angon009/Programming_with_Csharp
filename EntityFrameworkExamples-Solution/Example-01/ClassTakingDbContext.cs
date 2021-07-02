@@ -15,7 +15,7 @@ namespace Example_01
 
         public ClassTakingDbContext()
         {
-            _connectionString = "Server=ANGON\\SQLEXPRESS; Database = Administration; User Id = University; Password = 1234590";
+            _connectionString = "Server=ANGON\\SQLEXPRESS; Database = DevSkill; User Id = DevAngon; Password = 1234590";
             _assemblyName = typeof(Program).Assembly.FullName;
         }
 
