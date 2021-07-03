@@ -4,14 +4,16 @@ using Example_03;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Example_03.Migrations
 {
     [DbContext(typeof(DbContextConfig))]
-    partial class DbContextConfigModelSnapshot : ModelSnapshot
+    [Migration("20210703081923_ChangeRelationship")]
+    partial class ChangeRelationship
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

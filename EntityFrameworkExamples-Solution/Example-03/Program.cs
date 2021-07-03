@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Example_03
 {
@@ -34,7 +37,6 @@ namespace Example_03
             //context.SaveChanges();
             #endregion
 
-
             #region Adding Data in BuyerTable
 
             //var buyer = new Buyer();
@@ -68,7 +70,6 @@ namespace Example_03
             //context.SaveChanges();
             #endregion
 
-
             #region Adding data in Seller table
             //var seller1 = new Seller();
             //seller1.name = "Manmohon";
@@ -85,6 +86,57 @@ namespace Example_03
             //context.sellers.Add(seller2);
             //context.SaveChanges();
             #endregion
+
+            #region Making Relationship with Buyer table and Product id
+
+            ////Creating new Buyer
+            //var buyer = new Buyer();
+            //buyer.name = "Rahim Uddin";
+            //buyer.totalBill = 345;
+            //buyer.purchaseDate = DateTime.Now;
+
+            ////Creating new Product and adding a product in buyer table
+            //var product = new Product();
+            //product.productType = "Vegetables";
+            //product.expireDate = DateTime.Parse("07-04-2021");
+
+            //product.sellList = new List<Buyer>();
+            //product.sellList.Add(buyer);
+
+            //context.products.Add(product);
+            //context.SaveChanges();
+            #endregion
+
+            #region Picking up a buyers's table data from product table
+
+            //var products = context.products.Where(x => x.productType == "Vegetables")
+            //    .Include("sellList").FirstOrDefault();
+
+            #endregion
+
+
+            var buyer = new Buyer();
+            buyer.name = "Rahim Uddin";
+            buyer.totalBill = 345;
+            buyer.purchaseDate = DateTime.Now;
+
+
+            var productSell = new BuyerProduct();
+            productSell.buyer = buyer;
+            productSell.purchaseDate = DateTime.Now;
+
+            
+            var product = new Product();
+            product.productType = "Vegetables";
+            product.expireDate = DateTime.Parse("07-04-2021");
+
+            product.ProductBuyers = new List<BuyerProduct>();
+            product.ProductBuyers.Add(productSell);
+
+            context.products.Add(product);
+            context.SaveChanges();
+            Console.WriteLine("Done");
+
         }
     }
 }

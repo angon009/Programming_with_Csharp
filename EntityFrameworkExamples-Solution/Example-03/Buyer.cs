@@ -12,5 +12,6 @@ namespace Example_03
         public string name { get; set; }
         public DateTime purchaseDate { get; set; }
         public decimal totalBill { get; set; }
+        public List<BuyerProduct> ProductFeatures { get; set; }
     }
 }

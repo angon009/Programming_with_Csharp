@@ -32,7 +32,35 @@ namespace Example_03
         #endregion
 
 
+        #region To Settle Relationship
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            //One to many relationship
+            builder.Entity<Product>()   
+                .HasMany(p => p.Features)
+                .WithOne(i => i.Products); //Product has many features and features has one product
 
+
+            //Creating Primary key
+            builder.Entity<BuyerProduct>()
+                .HasKey(bp => new { bp.productId, bp.buyerId}); //Composite Primary key 
+                                                                //Combination of two id(primary key)
+
+
+            builder.Entity<BuyerProduct>()
+                .HasOne(bp => bp.product)
+                .WithMany(bp => bp.ProductBuyers)
+                .HasForeignKey(pc => pc.productId);
+
+            builder.Entity<BuyerProduct>()
+                .HasOne(bp => bp.buyer)
+                .WithMany(bp => bp.ProductFeatures)
+                .HasForeignKey(bp => bp.buyerId);
+
+            base.OnModelCreating(builder);
+        }
+
+        #endregion
 
         //Connecting our classes with ERF
         public DbSet<Seller> sellers { get; set; }
