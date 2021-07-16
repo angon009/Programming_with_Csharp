@@ -3,23 +3,25 @@
 namespace testConsole
 {
     class Program
-    {
+    {         
         static void Main(string[] args)
         {
-            var lineNumber = Console.ReadLine();
-            var individualNumber = lineNumber.Split(',');
+            int total = int.Parse(Console.ReadLine());
+            int[] arr = new int[total];
 
-            var firstPart = int.Parse(individualNumber[0]);
-            var secondPart = double.Parse(individualNumber[1]);
-            var thirdPart = int.Parse(individualNumber[2]);
+            string[] inputs = Console.ReadLine().Split(" ");
+            for(int i = 0; i < total; i++)
+            {
+                arr[i] = int.Parse(inputs[i]);
+            }
 
-             
-            Console.WriteLine(firstPart);
-            Console.WriteLine(secondPart);
-            Console.WriteLine(thirdPart);
+            int sum = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sum = sum + arr[i];
+            }
 
-
-             
+            Console.WriteLine(sum);
         }
     }
 }

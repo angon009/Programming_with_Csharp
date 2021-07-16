@@ -1,0 +1,16 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\ref\FileSystem.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\bin\Debug\net5.0\FileSystem.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.csproj.AssemblyReference.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\ref\FileSystem.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\FileSystem-Solution\FileSystem\obj\Debug\net5.0\FileSystem.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\testConsole-Solution\\testConsole\\testConsole.csproj",
-      "projectName": "testConsole",
-      "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\testConsole-Solution\\testConsole\\testConsole.csproj",
+      "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\FileSystem-Solution\\FileSystem\\FileSystem.csproj",
+      "projectName": "FileSystem",
+      "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\FileSystem-Solution\\FileSystem\\FileSystem.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\testConsole-Solution\\testConsole\\obj\\",
+      "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\FileSystem-Solution\\FileSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",
