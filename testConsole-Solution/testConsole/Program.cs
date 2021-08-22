@@ -38,7 +38,12 @@ namespace testConsole
 		}
 		static void Main(string[] args)
         {
-			double a = 2, b = 4;
+            Console.Write("a = ");
+			double a = double.Parse(Console.ReadLine());
+
+            Console.Write("b = ");
+			double b = double.Parse(Console.ReadLine());
+			
 			bisection(a, b);
 		}
     }

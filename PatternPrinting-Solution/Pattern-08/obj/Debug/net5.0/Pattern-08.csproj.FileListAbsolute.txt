@@ -1,0 +1,15 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\ref\Pattern-08.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\bin\Debug\net5.0\Pattern-08.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\ref\Pattern-08.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\PatternPrinting-Solution\Pattern-08\obj\Debug\net5.0\Pattern-08.genruntimeconfig.cache
