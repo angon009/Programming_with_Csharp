@@ -1,0 +1,15 @@
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.exe
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.deps.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.runtimeconfig.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.runtimeconfig.dev.json
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\ref\02_c.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\bin\Debug\net5.0\02_c.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.GeneratedMSBuildEditorConfig.editorconfig
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.AssemblyInfoInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.AssemblyInfo.cs
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.csproj.CoreCompileInputs.cache
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\ref\02_c.dll
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.pdb
+F:\Professional Programming With C#(Dev Skill)\Programming_with_Csharp\testConsole-Solution\02_c\obj\Debug\net5.0\02_c.genruntimeconfig.cache

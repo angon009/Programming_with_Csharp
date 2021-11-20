@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\Pattern-13.csproj",
+      "projectUniqueName": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\Pattern-13.csproj",
       "projectName": "Pattern-13",
-      "projectPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\Pattern-13.csproj",
+      "projectPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\Pattern-13.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "F:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\obj\\",
+      "outputPath": "Z:\\Professional Programming With C#(Dev Skill)\\Programming_with_Csharp\\PatternPrinting-Solution\\Pattern-13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
